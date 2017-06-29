@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/about.png</file>
+        <file>images/close.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/redo.png</file>
+        <file>images/save.png</file>
+        <file>images/support.png</file>
+        <file>images/undo.png</file>
+        <file>images/circle.png</file>
+        <file>images/cube.png</file>
+        <file>images/curve.png</file>
+        <file>images/dot.png</file>
+        <file>images/fill.png</file>
+        <file>images/line.png</file>
+        <file>images/oval.png</file>
+        <file>images/polygon.png</file>
+        <file>images/rotation.png</file>
+        <file>images/trim.png</file>
+        <file>images/zoom.png</file>
+        <file>images/minimize.png</file>
+        <file>images/restore.png</file>
+        <file>images/Color.png</file>
+        <file>images/dashedline.png</file>
+        <file>images/none.png</file>
+        <file>images/rectangle.png</file>
+        <file>images/zoom_in_out.png</file>
+        <file>images/select.png</file>
+        <file>images/shift.png</file>
+        <file>images/delete.png</file>
+    </qresource>
+</RCC>
